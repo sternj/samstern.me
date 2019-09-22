@@ -13,6 +13,7 @@
       <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
       <link rel="stylesheet" href="{{ get_url(path="poole.css", trailing_slash=false) }}">
       <link rel="stylesheet" href="{{ get_url(path="hyde.css", trailing_slash=false) }}">
+      <link rel="stylesheet" href="{{ get_url(path='custom.css', trailing_slash=false) }}">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
       {% if config.generate_rss %}
@@ -26,6 +27,7 @@
     <body class="{{ config.extra.hyde_theme }} {% if config.extra.hyde_reverse %}layout-reverse{% endif %}">
         {% block sidebar %}
             <div class="sidebar">
+                <a aria-label="Skip to main content" href="#main"></a>
                 <div class="container {% if config.extra.hyde_sticky %}sidebar-sticky{% endif %}">
                     <div class="sidebar-about">
                         {% block sidebar_about %}
@@ -47,7 +49,7 @@
             </div>
         {% endblock sidebar %}
 
-        <div class="content container">
+        <div class="content container" id="main">
             {% block content %}
                 <div class="posts">
                     {% for page in section.pages | reverse %}

@@ -16,7 +16,7 @@ description = "CS student, systems engineer"
 [extra]
 hyde_links = [
     {url="/", name="Home"},
-    {url="resume/resume.pdf", name="Resume"},
+    {url="/resume/resume.pdf", name="Resume"},
     {url="/branda", name="Branda"},
     {url="/autograder", name="AutoGrader"}
 ]

@@ -15,7 +15,9 @@ template = "homepage.html"
 - Brandeis CS account registration system (closed source)
 - WBRS Web Streaming System ([link](http://wbrs.org/web-player))
 ## Awards
+- Grand Prize Winner, Critical Stack Code-A-Thon 2019
 - Best use of DragonBoard, Codestellation 2018
 - Finalist, Canon Virtual Hackathon 2019
+
 ## Production work
 - [Samples and discography](@/production/index.md)

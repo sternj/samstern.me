@@ -14,11 +14,13 @@ date = 2019-09-20
 {{ youtube(id="Sbb00oXXKoc") }}
 
 ### As Musician
+{{ youtube(id="g8HjsC_1PUo") }}
 {{ youtube(id="-nrPKaMRx4Y") }}
 {{ youtube(id="F6uLON3jeLk") }}
 
 ## Full discography
 - 2019
+    - Valentine's Day— Columbine Kids (Drums) 
     - Rather Be Giraffes— Bird Set Free (Recording Engineer, Mixing Engineer)
     - Valentine's Day— Good Clean Christian Fun (Engineering, Drums)
     - Valentine's Day— The Ballad of Holden Caulfield (Drums)

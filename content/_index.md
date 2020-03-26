@@ -14,6 +14,7 @@ template = "homepage.html"
 ## Other projects
 - Brandeis CS account registration system (closed source)
 - WBRS Web Streaming System ([link](http://wbrs.org/web-player))
+- DOGBOT ([link](https://sternj-discord-dogbot.herokuapp.com/))
 ## Awards
 - Grand Prize Winner, Critical Stack Code-A-Thon 2019
 - Best use of DragonBoard, Codestellation 2018

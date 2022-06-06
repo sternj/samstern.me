@@ -3,7 +3,7 @@ title = "Site index"
 date = 2019-09-18
 template = "homepage.html"
 +++
-I am a first-year PhD student in computer science at [UMass Amherst](https://www.cics.umass.edu/) studying systems. I'm passionate about empowering developers to write safe and well-engineered code.
+I am a third-year PhD student in computer science at [UMass Amherst](https://www.cics.umass.edu/) studying systems. I'm passionate about empowering developers to write safe and well-engineered code.
 ## Basic info
 - [Github](https://github.com/sternj)
 - [Resume](resume/resume.pdf)

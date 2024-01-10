@@ -16,7 +16,7 @@ jobs:
     - name: Download and Install Zola
       run: |
         curl -s -L https://github.com/getzola/zola/releases/download/v0.8.0/zola-v0.8.0-x86_64-unknown-linux-gnu.tar.gz | tar xvzf - -C $HOME
-        echo "PATH=\$HOME/zola:\$PATH" >> $GITHUB_ENV
+        echo $HOME/zola >> $GITHUB_PATH
 
     - name: Build with Zola
       run: zola build

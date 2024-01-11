@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://samstern.me/</loc>
+    </url>
+    <url>
+        <loc>https://samstern.me/autograder/</loc>
+        <lastmod>2019-09-18</lastmod>
+    </url>
+    <url>
+        <loc>https://samstern.me/blog/</loc>
+    </url>
+    <url>
+        <loc>https://samstern.me/blog/first/</loc>
+        <lastmod>2021-01-08</lastmod>
+    </url>
+    <url>
+        <loc>https://samstern.me/branda/</loc>
+        <lastmod>2019-09-18</lastmod>
+    </url>
+    <url>
+        <loc>https://samstern.me/industry-experience/</loc>
+        <lastmod>2020-01-28</lastmod>
+    </url>
+    <url>
+        <loc>https://samstern.me/production/</loc>
+        <lastmod>2019-09-20</lastmod>
+    </url>
+</urlset>

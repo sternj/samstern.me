@@ -1,0 +1,22 @@
+{
+    "im.vector.riot.e2ee": {
+        "default": true
+    },
+    "im.vector.riot.jitsi": {
+        "preferredDomain": "jitsi.samstern.me"
+    },
+    "io.element.e2ee": {
+        "default": true,
+        "secure_backup_required": false,
+        "secure_backup_setup_methods": []
+    },
+    "io.element.jitsi": {
+        "preferredDomain": "jitsi.samstern.me"
+    },
+    "m.homeserver": {
+        "base_url": "https://matrix.samstern.me"
+    },
+    "m.identity_server": {
+        "base_url": "https://matrix.samstern.me"
+    }
+}
